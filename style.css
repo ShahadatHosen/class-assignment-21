@@ -1,0 +1,22 @@
+
+img{
+    max-width: 100%;
+}
+.carousel-item img{
+    height: 650px;
+    width: auto;
+}
+
+.about{
+
+}
+
+.about p{
+
+    font-size: 19px;
+}
+
+.about h1{
+    
+    font-size: 32px;
+}
